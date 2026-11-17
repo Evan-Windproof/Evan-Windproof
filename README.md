@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Evan Windproof
 
 Independent developer interested in operating systems, exokernels, systems programming, and open-source software.
