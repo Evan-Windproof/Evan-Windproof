@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**Evan-Windproof/Evan-Windproof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Evan Windproof
 
-Here are some ideas to get you started:
+Independent developer interested in operating systems, exokernels, systems programming, and open-source software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build experimental software projects with a focus on freedom, extensibility, and independent system design.
+
+## Project Directory
+
+### Exokernel Projects
+
+| Project | Description |
+|---|---|
+| [Orfreon](https://github.com/Evan-Windproof/Orfreon) | Long-term flagship exokernel project |
+| Liberums | Experimental exokernel for architecture research and development |
+
+### Library Operating Systems
+
+| Project | Description |
+|---|---|
+| Aelthuvor | Experimental LibOS designed for Liberums |
+
+### Operating Systems
+
+| Project | Description |
+|---|---|
+| [Evavind OS](https://github.com/Evan-Windproof/Evavind-OS) | Flagship desktop operating system, planned around Orfreon |
+| [Liberpony OS](https://github.com/Evan-Windproof/Liberpony-OS) | My Little Pony-themed operating system |
+| [Glivand OS](https://github.com/Evan-Windproof/Glivand-OS) | Mobile operating system project |
+| HoofTTY | Experimental text-based operating system |
+| Kernseed OS | Educational monolithic kernel project |
+
+### Other Projects
+
+| Project | Description |
+|---|---|
+| Aelthoren | Experimental Gecko-based web browser |
+| [Xok / ExOS Revival](https://github.com/Evan-Windproof/xok-exos-revival) | Research and revival of the MIT exokernel system |
+
+## Development Philosophy
+
+- Open-source development
+- Freedom of software and system design
+- Experimentation with alternative operating system architectures
+- Learning through practical projects
+
+## Notes
+
+Some projects are experimental, while others are long-term plans. Not every repository represents a complete or production-ready system.
