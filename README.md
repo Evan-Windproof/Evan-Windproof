@@ -4,6 +4,10 @@ Independent developer interested in operating systems, exokernels, systems progr
 
 I build experimental software projects with a focus on freedom, extensibility, and independent system design.
 
+Website: https://evan.v-1.top
+
+Email: evan.windproof@tutanota.de
+
 ## Project Directory
 
 ### Exokernel Projects
