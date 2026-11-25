@@ -15,7 +15,7 @@ Email: evan.windproof@tutanota.de
 | Project | Description |
 |---|---|
 | [Orfreon](https://github.com/Evan-Windproof/Orfreon) | Long-term flagship exokernel project |
-| Liberums | Experimental exokernel for architecture research and development |
+| [Liberums](https://github.com/Evan-Windproof/Liberums) | Experimental exokernel for architecture research and development |
 
 ### Library Operating Systems
 
@@ -30,8 +30,8 @@ Email: evan.windproof@tutanota.de
 | [Evavind OS](https://github.com/Evan-Windproof/Evavind-OS) | Flagship desktop operating system, planned around Orfreon |
 | [Liberpony OS](https://github.com/Evan-Windproof/Liberpony-OS) | My Little Pony-themed operating system |
 | [Glivand OS](https://github.com/Evan-Windproof/Glivand-OS) | Mobile operating system project |
-| HoofTTY | Experimental text-based operating system |
-| Kernseed OS | Educational monolithic kernel project |
+| [HoofTTY](https://github.com/Evan-Windproof/HoofTTY) | Experimental text-based operating system |
+| [Kernseed OS](https://github.com/Evan-Windproof/Kernseed_OS) | Educational monolithic kernel project |
 
 ### Other Projects
 
