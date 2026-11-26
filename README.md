@@ -6,7 +6,7 @@ I build experimental software projects with a focus on freedom, extensibility, a
 
 Blog: https://evanwindproof.top
 
-English Blog: https://evanwindproof.top
+English Blog: https://en.evanwindproof.top
 
 Email: evan.windproof@tutanota.de
 
